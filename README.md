@@ -1,4 +1,9 @@
-Reac Native simple stater app 
-Clone the respo
-delete pakage-lock.json
-run npm install
+React Native Starter is a mobile application template For bignners
+
+What's inside
+Simple Design
+5 screens
+Side navigater
+
+1.  Clone and Install
+2.  Run npm start
